@@ -1,0 +1,56 @@
+{
+  "Tiny Crafting Bag (I)": {
+    "chances": 5,
+    "perChance": {
+      "min": 3,
+      "max": 5
+    },
+    "possibleIds": [24342, 24346, 24272, 24352, 24284, 24296, 24278, 24290]
+  },
+
+  "Small Crafting Bag (II)": {
+    "chances": 5,
+    "perChance": {
+      "min": 2,
+      "max": 4
+    },
+    "possibleIds": [24343, 24347, 24273, 24353, 24285, 24285, 24297, 24279, 24291]
+  },
+  
+
+  "Light Crafting Bag (III)": {
+    "chances": 5,
+    "perChance": {
+      "min": 2,
+      "max": 4
+    },
+    "possibleIds": [24344, 24348, 24274, 24354, 24286, 24298, 24280, 24292]
+  },
+
+  "Medium Crafting Bag (IV)": {
+    "chances": 5,
+    "perChance": {
+      "min": 2,
+      "max": 4
+    },
+    "possibleIds": [24345, 24349, 24275, 24355, 24287, 24363, 24281, 24293]
+  },
+
+  "Large Crating Bag (V)": {
+    "chances": 5,
+    "perChance": {
+      "min": 2,
+      "max": 4
+    },
+    "possibleIds": [24341, 24350, 24276, 24356, 24288, 24299, 24282, 24294]
+  },
+
+  "Heavy Crafting Bag (VI)": {
+    "chances": 3,
+    "perChance": {
+      "min": 1,
+      "max": 1
+    },
+    "possibleIds": [24358, 24351, 24277, 24357, 24289, 24300, 24283, 24295]
+  }
+}
